@@ -1,0 +1,14 @@
+Trollo
+-plan
+-test
+-bug report
+
+Bugs:
+-Lose/win 
+    score borad only adds to the lose score 
+-See All Bots
+    dosnt show the Bots
+
+Trello Link-
+https://trello.com/invite/b/annKMV3n/07a82864f93a7c8c84ef43e3da93e2fc/assessment6
+
